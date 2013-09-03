@@ -2,10 +2,10 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>onescreen</groupId>
-	<artifactId>flume-osutils</artifactId>
+	<artifactId>flume-</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>flume-osutils</name>
-	<description>OneScreen Flume Utilities</description>
+	<name>flume-nginxTimestampSerializer</name>
+	<description>Converts nginx timestamp to epoch time in milliseconds.</description>
 	<dependencies>
 		<dependency>
 			<groupId>org.apache.flume</groupId>
